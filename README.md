@@ -1,4 +1,6 @@
-# Experiment 9
+# Experiment 9 and 10
+**Experiment 9** <br>
+<br>
 **Aim:** <br>
 To study and implement C++ Pointer basics <br>
 <br>
@@ -64,3 +66,39 @@ int main()
 &#8594; We learnt about pointers in C++. <br>
 &#8594; We learnt the use case of pointers in C++. <br>
 *******
+<br>
+
+**Experiment 10** <br>
+<br>
+**Aim:** <br>
+To study and implement Pointer Operations (call by value and call by reference) <br>
+<br>
+**Theory:** <br>
+There are two ways to call a variable to a function for various operations. <br>
+| Call by Value  | Call by Reference |
+| ------------- | ------------- |
+| A method of passing arguments to a function where the actual value is passed.  | A method of passing arguments where the address of the variable is passed.  |
+| Does not affect the original variable.  | Does affect the original variable.  |
+| More memory is used because a copy of the actual value is made.  | Less memory is used because only the address is passed.  |
+| Used when the function does not need to modify the original data.  | Used when the function needs to modify the original data or when passing large objects.  |
+<br>
+
+**Code:** <br>
+<br>
+
+```
+
+    
+```
+
+**Outputs:**  <br>
+
+![exp9 output](https://github.com/tanishaamenon/CDS---Pointers/blob/main/exp9.JPG) <br>
+
+<br>
+
+**Conclusion:** <br>
+&#8594; We learnt about call by value and call by reference in C++. <br>
+&#8594; We learnt the use case of each in C++. <br>
+*******
+<>
