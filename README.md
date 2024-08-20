@@ -167,7 +167,8 @@ int main()
 
 **Outputs:**  <br>
 
-![exp9 output](https://github.com/tanishaamenon/CDS---Pointers/blob/main/exp9.JPG) <br>
+![exp10a output](https://github.com/tanishaamenon/CDS---Pointers/blob/main/exp10a.JPG) <br>
+![exp10b output](https://github.com/tanishaamenon/CDS---Pointers/blob/main/exp10b.JPG) <br>
 
 <br>
 
